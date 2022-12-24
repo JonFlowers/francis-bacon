@@ -1,0 +1,38 @@
+[
+    {  
+    "id": "landscape",
+    "link": "../landscape/index.html"
+    },
+    {  
+    "id": "grass",
+    "link": "../grass/index.html"
+    },
+    {  
+    "id": "self-portraits",
+    "link": "../self-portraits/index.html"
+    },
+    {  
+    "id": "life-mask",
+    "link": "../life-mask/index.html"
+    },
+    {  
+    "id": "three-portraits",
+    "link": "../three-portraits/index.html"
+    },
+    {  
+    "id": "dyer",
+    "link": "../dyer/index.html"
+    },
+    {  
+    "id": "man-with-monkey",
+    "link": "../man-with-monkey/index.html"
+    },
+    {  
+    "id": "three-studies",
+    "link": "../three-studies/index.html"
+    },
+    {  
+    "id": "bull-death",
+    "link": "../bull-death/index.html"
+    }
+]
